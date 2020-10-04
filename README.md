@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hola 👋, I'm Abhinand A K</h1>
+<h3 align="center">An Android & Linux enthusiast.</h3>
 
-<!--
-**AbhinandAK350/AbhinandAK350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<img align="right" width="400" height="auto" src="https://github.com/AbhinandAK350/AbhinandAK350/raw/main/Hello-gif.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on 🤔
+- 🌱 I’m always learning something new.
+- 📫 How to reach me: 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/skybird350)
+[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abhinandak@outlook.com)
+- 😄 Pronouns: He/His/Him
+- ⚡ Fun fact: Me, Noob.
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandAK350&theme=vue&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbhinandAK350&theme=vue&show_icons=true&custom_title=Abhinand's Github Stats" />
+
+<br>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=AbhinandAK350"/>
