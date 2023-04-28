@@ -16,8 +16,8 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandAK350&theme=vue&layout=compact" />
-<img src="https://github-readme-stats.vercel.app/api?username=AbhinandAK350&theme=vue&show_icons=true&custom_title=Abhinand's Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandAK350&layout=compact&show_icons=true&bg_color=25,1A2980,26D0CE&title_color=fff&text_color=fff&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbhinandAK350&show_icons=true&bg_color=25,1A2980,26D0CE&title_color=fff&text_color=fff&count_private=true" />
 
 <br>
 
